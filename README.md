@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Engineering Physics Student
+
+Final Year |Telkom University
+
+Working as Translator on Qiskit Platypus
+[![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)
+
 <!--
 **Fahlevi20/Fahlevi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # my-repostory
