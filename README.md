@@ -6,6 +6,8 @@ Final Year |Telkom University
 
 Working as Translator on Qiskit Platypus
 [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)
+[![Portofolio Web]((https://gitlocalize.com/repo/7494/whole_project?utm_source=badge](https://fahlevi20.github.io/mystory.github-io/))
+
 
 <!--
 **Fahlevi20/Fahlevi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
