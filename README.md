@@ -9,6 +9,14 @@ Working as Translator on Qiskit Platypus
 
 my Website Portofolio [Portofolio Website](https://fahlevi20.github.io/mystory.github-io/)✨
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Fahlevi20">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fahlevi20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mikhlasnr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **Fahlevi20/Fahlevi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
