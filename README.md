@@ -2,10 +2,11 @@
 
 I'm Engineering Physics Student
 
-Machine Learning and Material Enthusiast
+Machine Learning Enthusiast
 
-Fresh Graduate with Bachelor of Engineering Physics |Telkom University
+Fresh Graduate with Bachelor of Engineering Physics |Telkom University 2019-2023
 
+Software Engineer (AI)
 contributor as Translator on Qiskit Platypus
 [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)\
 my Website Portofolio [Portofolio Website](https://fahlevi20.github.io/mystory.github-io/)✨\
