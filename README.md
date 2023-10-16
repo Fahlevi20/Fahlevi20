@@ -6,8 +6,9 @@ Machine Learning Enthusiast
 
 Fresh Graduate with Bachelor of Engineering Physics |Telkom University 2019-2023
 
-Software Engineer (AI)
-contributor as Translator on Qiskit Platypus
+- Software Engineer (AI)
+- contributor as Translator on Qiskit Platypus
+
 [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)\
 my Website Portofolio [Portofolio Website](https://fahlevi20.github.io/mystory.github-io/)✨\
 My Linkedin [linkedin aing](https://www.linkedin.com/in/fahlevialir/)
