@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-I'm Engineering Physics Student
+# Mukhammad Fahlevi Ali Rafsanjani
 
-Machine Learning Enthusiast
+🚀 Passionate AI Engineer & Recent Bachelor of Engineering Physics Graduate from Telkom University.🎓
 
-Fresh Graduate with Bachelor of Engineering Physics |Telkom University 2019-2023
+🔍 Pursuing AI research with a focus on chatbot development in various industries. Experienced in leveraging Python, TensorFlow, Golang, and JavaScript for AI/ML full-stack solutions. Skilled in creating intelligent web applications.
 
-- Software Engineer (AI)
-- Chatbot Developer
+
+🌟 Core Competencies:
+
+- AI/ML Engineering
+- Data Science
+- Chatbot Development
+- Software Engineering
+- Research Assistant
+<p>
+  <a href="https://www.linkedin.com/in/fahlevialir">
+    <img src ="https://img.shields.io/badge/LinkedIn-connect%20with%20me-5865f2"/>
+  </a>
+  <a href="rozakalfi@gmail.com">
+    <img src ="https://img.shields.io/badge/Mail%20with%20me-00FF00"/>
+  </a>
+  <a href="rozakalfi@gmail.com">
+    <img src ="https://img.shields.io/badge/Mail%20with%20me-00FF00"/>
+  </a>
+   <a href="http://discordapp.com/users/leleenjiner">
+    <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5&style=flat-square"/>
+  </a>
+</p>
 [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)\
-my Website Portofolio [Portofolio Website](https://fahlevi20.github.io/mystory.github-io/)✨\
-My Linkedin [linkedin aing](https://www.linkedin.com/in/fahlevialir/)
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/Fahlevi20">
