@@ -28,7 +28,12 @@
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5&style=flat-square"/>
   </a>
 </p>
-[![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)\
+
+### My Project
+<p> lets contribute to my repo!!</p>
+## Python Project:
+- Basic Project ChatGPT using Flask  <a href ="https://github.com/Fahlevi20/basic_web_chat_gpt_flask"> here </a>
+
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/Fahlevi20">
@@ -37,27 +42,3 @@
 </a>
 </p>
 
-
-<!--
-**Fahlevi20/Fahlevi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# my-repostory
-
-HI THERE
-
-I'm Engineering Physics Student
-Final Year|Telkom University
-
-Working as Translator on Qiskit Platypus
-[![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
