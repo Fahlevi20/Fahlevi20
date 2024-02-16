@@ -37,10 +37,14 @@
 </p>
 
 ### My Project
-<p> lets contribute to my repo!!</p>
-## Python Project:
-- Basic Project ChatGPT using Flask  <a href ="https://github.com/Fahlevi20/basic_web_chat_gpt_flask"> here </a>
+lets contribute to my repo!!
+ ## Python Project:
+  
+ - Basic Project ChatGPT using Flask: [here](https://github.com/Fahlevi20/basic_web_chat_gpt_flask)
+ ## Next.Js Project:
+ - Chatbot-next-js: [Here](https://github.com/Fahlevi20/gpt-chatbot-next-js)
 
+</p>
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/Fahlevi20">
