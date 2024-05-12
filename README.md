@@ -13,14 +13,6 @@
 - Chatbot Development
 - Software Engineering
 - Research Assistant
-
-🌟 Core Competencies:
-
-- AI/ML Engineering
-- Data Science
-- Chatbot Development
-- Software Engineering
-- Research Assistant
 <p>
   <a href="https://www.linkedin.com/in/fahlevialir">
     <img src ="https://img.shields.io/badge/LinkedIn-connect%20with%20me-5865f2"/>
