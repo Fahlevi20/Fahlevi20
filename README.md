@@ -4,23 +4,23 @@
 
 🚀 Passionate AI Engineer with over 1 year of industry experience & Recent Bachelor of Engineering Physics Graduate from Telkom University 2023.🎓
 
-🔍 Pursuing AI research with a focus on chatbot development across various industries. Proficient in Python, TensorFlow, Golang, and JavaScript for AI/ML solutions. Skilled in developing intelligent web applications.
+🔍 Pursuing AI research with a focus on Generative AI. Proficient in Python and various ML Tools for AI/ML solutions. Skilled in developing intelligent web applications.
 
 🌟 Core Competencies:
 
 - AI/ML Engineering
 - Data Science
-- Chatbot Development
+- Generative AI
 - Software Engineering
 - Research Assistant
 <p>
   <a href="https://www.linkedin.com/in/fahlevialir">
     <img src ="https://img.shields.io/badge/LinkedIn-connect%20with%20me-5865f2"/>
   </a>
-  <a href="rozakalfi@gmail.com">
+  <a href="mukhammad.fahlevi@insignia.co.id">
     <img src ="https://img.shields.io/badge/Mail%20with%20me-00FF00"/>
   </a>
-  <a href="rozakalfi@gmail.com">
+  <a href="mukhammad.fahlevi@insignia.co.id">
     <img src ="https://img.shields.io/badge/Mail%20with%20me-00FF00"/>
   </a>
    <a href="http://discordapp.com/users/leleenjiner">
