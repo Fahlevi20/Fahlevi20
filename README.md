@@ -2,7 +2,7 @@
 
 # Mukhammad Fahlevi Ali Rafsanjani
 
-🚀 Passionate AI Engineer with over 1 year of industry experience & Recent Bachelor of Engineering Physics Graduate from Telkom University 2023.🎓
+🚀 Passionate AI Engineer & Recent Bachelor of Engineering Physics Graduate from Telkom University 2023.🎓
 
 🔍 Pursuing AI research with a focus on Generative AI. Proficient in Python and various ML Tools for AI/ML solutions. Skilled in developing intelligent web applications.
 
