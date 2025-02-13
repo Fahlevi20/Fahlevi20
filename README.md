@@ -31,8 +31,10 @@
 ### My Project
 lets contribute to my repo!!
  ## Python Project:
-  
+ - Langchain Ollama JavaScripts: [here](https://github.com/Fahlevi20/Langchain-Ollama-JavaScripts)
+ - Fined-Tune-Open-Source-LLM: [here](https://github.com/Fahlevi20/Fined-Tune-Open-Source-LLM)  
  - Basic Project ChatGPT using Flask: [here](https://github.com/Fahlevi20/basic_web_chat_gpt_flask)
+ - 
  ## Next.Js Project:
  - Chatbot-next-js: [Here](https://github.com/Fahlevi20/gpt-chatbot-next-js)
 
