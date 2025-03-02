@@ -41,13 +41,12 @@
 Let's contribute to my repos!
 
 **Featured Projects:**
- - Langchain Ollama JavaScripts: [here](https://github.com/Fahlevi20/Langchain-Ollama-JavaScripts)
- - Fined-Tune-Open-Source-LLM: [here](https://github.com/Fahlevi20/Fined-Tune-Open-Source-LLM)
- - OpenAI Templates : [here](https://github.com/Fahlevi20/openai-templates)  
- - Basic Project ChatGPT using Flask: [here](https://github.com/Fahlevi20/basic_web_chat_gpt_flask)
- - LLama.cpp: [here](https://github.com/Fahlevi20/llama.cpp)
- ## Next.Js Project:
- - Chatbot-next-js: [Here](https://github.com/Fahlevi20/gpt-chatbot-next-js)
+* **Langchain Ollama JavaScripts:** [here](https://github.com/Fahlevi20/Langchain-Ollama-JavaScripts) - Integrating Langchain with Ollama using JavaScript.
+* **Fined-Tune-Open-Source-LLM:** [here](https://github.com/Fahlevi20/Fined-Tune-Open-Source-LLM) - Fine-tuning open-source Large Language Models.
+* **Chatbot-next-js:** [here](https://github.com/Fahlevi20/gpt-chatbot-next-js) - A chatbot built with Next.js.
+* **OpenAI Templates:** [here](https://github.com/Fahlevi20/openai-templates) - Useful templates for working with OpenAI.
+* **Basic Project ChatGPT using Flask:** [here](https://github.com/Fahlevi20/basic_web_chat_gpt_flask) - A simple web-based ChatGPT application using Flask.
+* **LLama.cpp:** [here](https://github.com/Fahlevi20/llama.cpp) - Working with LLama.cpp.
 
 ### Skills
 
