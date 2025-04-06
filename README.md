@@ -50,19 +50,37 @@ Let's contribute to my repos!
 
 ### Skills
 
-**Programming Languages:** Python, JavaScript, C/C++, Golang, HTML, CSS
+## Skills
 
-**Frameworks & Libraries:** TensorFlow, PyTorch, LangChain, LlamaIndex, Hugging Face, Flask, FastAPI, Streamlit, Pandas, Scikit-learn, OpenCV, Keras, MLFlow, Django
+**Programming Languages:** Python, C/C++, Golang, JavaScript, HTML, CSS
 
-**GenAI:** Vertex AI, Google Gemini, Anthropic, Azure OpenAI, OpenAI, Llama 3.1, Llama 3.2, AWS Bedrock, llama.cpp, Unsloth, Ollama
+**Deep Learning:** TensorFlow, PyTorch, Keras
 
-**Databases:** Qdrant, OpenSearch, PostgreSQL, SQL, Firebase, MySQL, DynamoDB, Amazon S3, BigQuery
+**Machine Learning:** Scikit-Learn, OpenCV, YOLO, XGBoost, StatsModels, Rasa
 
-**Cloud Platforms:** Google Cloud Platform (GCP), Azure, Amazon Web Services (AWS)
+**Data Manipulation & Analysis:** Pandas
 
-**Tools:** Git, Docker, GitHub Actions, Jupyter Notebook, VS Code, Pycharm, Jira, ClickUp
+**LLM Platforms & APIs:** Vertex AI, Google Gemini, Anthropic (Claude), Azure OpenAI, OpenAI (GPT Models), AWS Bedrock
 
-**Techniques:** RAG, Agentic AI, Prompt Engineering, Multimodal Learning, Few-shot & Zero-shot Learning, Ensemble Learning
+**Open Source LLMs:** Llama 3.1, Llama 3.2
+
+**LLM Frameworks & Tools:** LangChain, LlamaIndex, HuggingFace, llama.cpp, Unsloth, Ollama, Dify
+
+**AI/ML Techniques:** RAG (Retrieval-Augmented Generation), Agentic Systems (Autonomous AI Agents), Multi-Agent Systems, Multi-LLM Orchestration, Prompt Engineering, Multimodal Processing (Text, Images, etc.), Few-shot & Zero-shot Learning, Ensemble Learning
+
+**Web Frameworks:** Flask, FastAPI, Django, Streamlit
+
+**DevOps & MLOps:** Git, GitHub, GitHub Actions, Docker, Apache Airflow, AWS Glue, AWS CloudWatch, MLFlow
+
+**NoSQL Databases:** Firebase, DynamoDB, Qdrant, OpenSearch, Amazon S3
+
+**SQL Databases:** PostgreSQL, SQL, BigQuery, MySQL
+
+**Data Visualization:** DataPrep, Looker Studio, Tableau
+
+**Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
+
+**Development Tools & Environment:** Pycharm, Jupyter Notebook, Jira, ClickUp, Visual Studio Code, Microsoft Office, Ubuntu, WSL
 
 ### GitHub Statistics
 
