@@ -50,8 +50,6 @@ Let's contribute to my repos!
 
 ### Skills
 
-## Skills
-
 **Programming Languages:** Python, C/C++, Golang, JavaScript, HTML, CSS
 
 **Deep Learning:** TensorFlow, PyTorch, Keras
